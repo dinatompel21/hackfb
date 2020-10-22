@@ -2,9 +2,9 @@
 # coding=utf-8
 #jangan di recode
 #recode jomblo seumur hidup
-# (Sippitt.Jr) PEMBUAT
-#SUBSCRIBE CHANNEL Arief-Isal
-#FOLLOW INSTAGRAM @faisal
+# (iksan.Jr) PEMBUAT
+#SUBSCRIBE CHANNEL khairul-iksan
+#FOLLOW INSTAGRAM @iksan_45
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
@@ -63,7 +63,7 @@ logo = """\033[1;96m█████████
 \033[1;96m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 \033[1;96m█\033[1;91m▼▼▼▼▼ \033[1;95m- _ --_--\033[1;95m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ 
 \033[1;96m█ \033[1;92m \033[1;95m_-_-- -_ --__\033[1;93m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗
-\033[1;96m█\033[1;91m▲▲▲▲▲\033[1;95m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96mSippitt-Jr
+\033[1;96m█\033[1;91m▲▲▲▲▲\033[1;95m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96miksan-jr
 \033[1;96m█████████      \033[1;92m«----------✧----------»
 \033[1;96m ██ ██
 \033[1;96m╔══════════════════════════════════════════════╗
