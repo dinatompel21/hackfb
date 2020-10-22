@@ -2,9 +2,9 @@
 # coding=utf-8
 #jangan di recode
 #recode jomblo seumur hidup
-# (Sippitt.Jr) PEMBUAT
-#SUBSCRIBE CHANNEL Arief-Isal
-#FOLLOW INSTAGRAM @faisal
+# (winarno.2) PEMBUAT
+#SUBSCRIBE CHANNEL frontal gaming
+#FOLLOW INSTAGRAM @iksan45
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
