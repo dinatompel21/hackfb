@@ -1,4 +1,4 @@
-#Decompiled by M.Arief
+#Decompiled by M.iksan
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
